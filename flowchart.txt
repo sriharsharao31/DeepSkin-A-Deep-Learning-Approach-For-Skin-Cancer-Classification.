@@ -1,0 +1,38 @@
+1. Importing the packages
+2. Exploring the dataset 
+	-  Skin Cancer Data
+3. Image processing
+	- using ImageDataGenerator 
+		- Re-scaling the Image
+		- Shear Transformation
+		- Zooming the Image
+		- Horizontal Flip 
+		- Reshaping the Image 
+		- Segmentation
+			- Applying Morphological Black-Hat transformation
+			- Creating the mask for InPainting task
+			- Applying inpainting algorithm on the image
+4. Building the model 
+    - ResNet50
+    - DenseNet169
+    - VGG16
+    - Xception
+    - DenseNet201
+   
+5. Training the model
+6. Building the model 
+
+
+Flask Framework
+----------------
+ 
+7. Flask Framework with Sqlite for signup and signin
+8. Importing the packages
+9. User Upload an image for analysis
+10. The given input is preprocessed and segmented 
+11. The trained model is used for predicting the result
+12. Final Outcome is display 
+
+Dataset
+----------- 
+Classification :   https://www.kaggle.com/datasets/artakusuma/basedir  
